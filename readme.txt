@@ -1,0 +1,1 @@
+Consolidate rosalind solutions
